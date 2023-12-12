@@ -1,0 +1,46 @@
+/* Write your code here. */
+.win-lose-container {
+  background-color: #9796f0;
+  height: 400px;
+  width: 400px;
+  border: none;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #9796f0;
+}
+.win-lose-score-container {
+  padding: 20px;
+}
+.win-lose-greetings {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+.win-loss-score {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+}
+.win-loss-s {
+  color: #6a59ff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: bold;
+}
+.play-button {
+  background-color: #ffce27;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+}
+.image {
+  height: 200px;
+  width: 180px;
+}

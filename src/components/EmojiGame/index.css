@@ -1,0 +1,15 @@
+/* Write your code here. */
+.app-container {
+  height: 100vh;
+}
+.emoji-game-container {
+  height: 90vh;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  padding: 10%;
+}
+.emojis-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
